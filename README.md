@@ -1,0 +1,2 @@
+# minge
+My Hexo Blog
